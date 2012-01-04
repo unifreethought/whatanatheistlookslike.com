@@ -1,0 +1,63 @@
+/** 
+ * What An Atheist Looks Like.com
+ * By, UNI Freethinkers and Inquirers
+ * Author: Adam Shannon
+ */
+ 
+a, body {
+	color: #000000;
+	font-family: arial;
+}
+ 
+body {
+	background-color: #FFFFFF;
+}
+
+header {
+	text-align: center;
+}
+
+	header h1 {
+		font-family: "Verdana";
+		font-size: 1.5em;
+		margin-bottom: -10px;
+	}
+	
+		header h1 a {
+			text-decoration: none;
+		}
+	
+section {
+	margin-left: 15%;
+	width: 70%;
+}
+
+	section nav {
+		width: 100%;
+	}
+	
+		section nav ul {
+			/* */
+		}
+		
+			section nav ul li {
+				display: inline-block;
+				font-weight: bold;
+				list-style-type: none;
+				text-align: center;
+				width: 19%;
+			}
+			
+	section div#slideshow_container {
+		/*
+		margin: auto;
+		width: 0px;
+		*/
+		text-align: center;
+	}
+			
+	section img#slideshow {
+		border: 1px solid #FFFFFF;
+		margin: auto;
+	}
+			
